@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\bin\Debug\net9.0\WelcomeApp.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\bin\Debug\net9.0\WelcomeApp.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\bin\Debug\net9.0\WelcomeApp.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\bin\Debug\net9.0\WelcomeApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\bin\Debug\net9.0\WelcomeApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\refint\WelcomeApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\WelcomeApp.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeApp\obj\Debug\net9.0\ref\WelcomeApp.dll
