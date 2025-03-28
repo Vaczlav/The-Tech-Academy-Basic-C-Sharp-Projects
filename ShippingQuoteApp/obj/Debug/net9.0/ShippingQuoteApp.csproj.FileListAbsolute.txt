@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\bin\Debug\net9.0\ShippingQuoteApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\refint\ShippingQuoteApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ShippingQuoteApp.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingQuoteApp\obj\Debug\net9.0\ref\ShippingQuoteApp.dll
