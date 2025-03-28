@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\bin\Debug\net9.0\MathOperationsApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\refint\MathOperationsApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\MathOperationsApp.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MathOperationsApp\obj\Debug\net9.0\ref\MathOperationsApp.dll
