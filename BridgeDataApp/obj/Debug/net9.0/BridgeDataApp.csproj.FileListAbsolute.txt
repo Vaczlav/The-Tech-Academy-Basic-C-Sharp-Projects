@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\bin\Debug\net9.0\BridgeDataApp.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\bin\Debug\net9.0\BridgeDataApp.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\bin\Debug\net9.0\BridgeDataApp.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\bin\Debug\net9.0\BridgeDataApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\bin\Debug\net9.0\BridgeDataApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\refint\BridgeDataApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\BridgeDataApp.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BridgeDataApp\obj\Debug\net9.0\ref\BridgeDataApp.dll
