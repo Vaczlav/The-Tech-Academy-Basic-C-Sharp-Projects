@@ -10,50 +10,74 @@ namespace BridgeDataApp
             // Array of bridge names
             string[] bridgeNames = { "Golden Gate", "Brooklyn", "Confederation", "Ambassador", "Capilano" };
 
-            // Ask user to select an index for bridge name
-            Console.WriteLine("Enter an index (0–4) to view a bridge name:");
+            Console.WriteLine("Select an index (0–4) to view a bridge name:");
             int nameIndex = Convert.ToInt32(Console.ReadLine());
+            bool validName = false;
 
-            if (nameIndex >= 0 && nameIndex < bridgeNames.Length)
+            while (!validName)
             {
-                Console.WriteLine("Bridge name: " + bridgeNames[nameIndex]);
-            }
-            else
-            {
-                Console.WriteLine("That index does not exist in the bridge names array.");
+                try
+                {
+                    Console.WriteLine("Bridge name: " + bridgeNames[nameIndex]);
+                    validName = true;
+                }
+                catch
+                {
+                    Console.WriteLine("Invalid index. Please enter a number between 0 and 4:");
+                    nameIndex = Convert.ToInt32(Console.ReadLine());
+                }
             }
 
-            // Array of bridge lengths in meters
+            // Array of bridge lengths (in meters)
             int[] bridgeLengths = { 2737, 1825, 12900, 2286, 140 };
 
-            Console.WriteLine("Enter an index (0–4) to view the length of a bridge (in meters):");
+            Console.WriteLine("\nSelect an index (0–4) to view bridge length:");
             int lengthIndex = Convert.ToInt32(Console.ReadLine());
+            bool validLength = false;
 
-            if (lengthIndex >= 0 && lengthIndex < bridgeLengths.Length)
+            while (!validLength)
             {
-                Console.WriteLine("Bridge length: " + bridgeLengths[lengthIndex] + " meters");
+                try
+                {
+                    Console.WriteLine("Bridge length: " + bridgeLengths[lengthIndex] + " meters");
+                    validLength = true;
+                }
+                catch
+                {
+                    Console.WriteLine("Invalid index. Please enter a number between 0 and 4:");
+                    lengthIndex = Convert.ToInt32(Console.ReadLine());
+                }
             }
-            else
+
+            // List of bridge types
+            List<string> bridgeTypes = new List<string>()
             {
-                Console.WriteLine("That index does not exist in the bridge lengths array.");
-            }
+                "Suspension",
+                "Suspension",
+                "Beam",
+                "Arch",
+                "Suspension"
+            };
 
-            // List of bridge structure types
-            List<string> bridgeTypes = new List<string> { "Suspension", "Cable-stayed", "Arch", "Beam", "Truss" };
-
-            Console.WriteLine("Enter an index (0–4) to view the bridge structure type:");
+            Console.WriteLine("\nSelect an index (0–4) to view bridge type:");
             int typeIndex = Convert.ToInt32(Console.ReadLine());
+            bool validType = false;
 
-            if (typeIndex >= 0 && typeIndex < bridgeTypes.Count)
+            while (!validType)
             {
-                Console.WriteLine("Bridge type: " + bridgeTypes[typeIndex]);
-            }
-            else
-            {
-                Console.WriteLine("That index does not exist in the bridge types list.");
+                try
+                {
+                    Console.WriteLine("Bridge type: " + bridgeTypes[typeIndex]);
+                    validType = true;
+                }
+                catch
+                {
+                    Console.WriteLine("Invalid index. Please enter a number between 0 and 4:");
+                    typeIndex = Convert.ToInt32(Console.ReadLine());
+                }
             }
 
-            // Hold the console window open
+            Console.WriteLine("\nThank you for using BridgeDataApp!");
             Console.ReadLine();
         }
     }

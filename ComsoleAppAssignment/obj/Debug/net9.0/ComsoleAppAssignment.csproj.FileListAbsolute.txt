@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\bin\Debug\net9.0\ComsoleAppAssignment.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\bin\Debug\net9.0\ComsoleAppAssignment.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\bin\Debug\net9.0\ComsoleAppAssignment.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\bin\Debug\net9.0\ComsoleAppAssignment.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\bin\Debug\net9.0\ComsoleAppAssignment.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\refint\ComsoleAppAssignment.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ComsoleAppAssignment.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ComsoleAppAssignment\obj\Debug\net9.0\ref\ComsoleAppAssignment.dll
