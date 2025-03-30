@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\bin\Debug\net9.0\CarCostCalculator.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\bin\Debug\net9.0\CarCostCalculator.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\bin\Debug\net9.0\CarCostCalculator.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\bin\Debug\net9.0\CarCostCalculator.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\bin\Debug\net9.0\CarCostCalculator.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\refint\CarCostCalculator.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\CarCostCalculator.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarCostCalculator\obj\Debug\net9.0\ref\CarCostCalculator.dll
