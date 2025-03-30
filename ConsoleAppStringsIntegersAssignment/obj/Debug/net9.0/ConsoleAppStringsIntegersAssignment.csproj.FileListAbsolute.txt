@@ -1,0 +1,5 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsIntegersAssignment\obj\Debug\net9.0\ConsoleAppStringsIntegersAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsIntegersAssignment\obj\Debug\net9.0\ConsoleAppStringsIntegersAssignment.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsIntegersAssignment\obj\Debug\net9.0\ConsoleAppStringsIntegersAssignment.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsIntegersAssignment\obj\Debug\net9.0\ConsoleAppStringsIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringsIntegersAssignment\obj\Debug\net9.0\ConsoleAppStringsIntegersAssignment.sourcelink.json

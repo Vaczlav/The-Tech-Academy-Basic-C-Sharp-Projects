@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppStringsIntegersAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5868df82fe5eb3213e4398db425ce71ec687414f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4ee19abc1a6c3ac878df5bab65703416f51fa4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppStringsIntegersAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppStringsIntegersAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

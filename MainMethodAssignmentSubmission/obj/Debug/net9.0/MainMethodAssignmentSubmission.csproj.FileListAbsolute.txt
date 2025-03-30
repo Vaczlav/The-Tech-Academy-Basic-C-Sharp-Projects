@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\bin\Debug\net9.0\MainMethodAssignmentSubmission.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\bin\Debug\net9.0\MainMethodAssignmentSubmission.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\bin\Debug\net9.0\MainMethodAssignmentSubmission.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\bin\Debug\net9.0\MainMethodAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\bin\Debug\net9.0\MainMethodAssignmentSubmission.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\refint\MainMethodAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\MainMethodAssignmentSubmission.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethodAssignmentSubmission\obj\Debug\net9.0\ref\MainMethodAssignmentSubmission.dll
