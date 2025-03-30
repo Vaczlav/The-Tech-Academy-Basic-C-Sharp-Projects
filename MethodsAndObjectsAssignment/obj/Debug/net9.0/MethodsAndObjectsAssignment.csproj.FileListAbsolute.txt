@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\bin\Debug\net9.0\MethodsAndObjectsAssignment.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\bin\Debug\net9.0\MethodsAndObjectsAssignment.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\bin\Debug\net9.0\MethodsAndObjectsAssignment.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\bin\Debug\net9.0\MethodsAndObjectsAssignment.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\bin\Debug\net9.0\MethodsAndObjectsAssignment.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\refint\MethodsAndObjectsAssignment.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\MethodsAndObjectsAssignment.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\obj\Debug\net9.0\ref\MethodsAndObjectsAssignment.dll

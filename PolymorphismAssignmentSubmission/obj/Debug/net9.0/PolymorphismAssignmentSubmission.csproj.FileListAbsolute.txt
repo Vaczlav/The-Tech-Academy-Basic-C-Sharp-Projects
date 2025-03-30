@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\bin\Debug\net9.0\PolymorphismAssignmentSubmission.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\bin\Debug\net9.0\PolymorphismAssignmentSubmission.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\bin\Debug\net9.0\PolymorphismAssignmentSubmission.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\bin\Debug\net9.0\PolymorphismAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\bin\Debug\net9.0\PolymorphismAssignmentSubmission.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\refint\PolymorphismAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\PolymorphismAssignmentSubmission.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismAssignmentSubmission\obj\Debug\net9.0\ref\PolymorphismAssignmentSubmission.dll
