@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\bin\Debug\net9.0\CarDayChecker.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\bin\Debug\net9.0\CarDayChecker.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\bin\Debug\net9.0\CarDayChecker.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\bin\Debug\net9.0\CarDayChecker.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\bin\Debug\net9.0\CarDayChecker.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\refint\CarDayChecker.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\CarDayChecker.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarDayChecker\obj\Debug\net9.0\ref\CarDayChecker.dll
