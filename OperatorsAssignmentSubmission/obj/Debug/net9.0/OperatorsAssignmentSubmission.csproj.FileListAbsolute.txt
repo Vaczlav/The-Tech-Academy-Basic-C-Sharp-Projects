@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\bin\Debug\net9.0\OperatorsAssignmentSubmission.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\bin\Debug\net9.0\OperatorsAssignmentSubmission.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\bin\Debug\net9.0\OperatorsAssignmentSubmission.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\bin\Debug\net9.0\OperatorsAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\bin\Debug\net9.0\OperatorsAssignmentSubmission.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\refint\OperatorsAssignmentSubmission.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\OperatorsAssignmentSubmission.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsAssignmentSubmission\obj\Debug\net9.0\ref\OperatorsAssignmentSubmission.dll
