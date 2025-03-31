@@ -1,0 +1,15 @@
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\bin\Debug\net9.0\BookConstructorApp.exe
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\bin\Debug\net9.0\BookConstructorApp.deps.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\bin\Debug\net9.0\BookConstructorApp.runtimeconfig.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\bin\Debug\net9.0\BookConstructorApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\bin\Debug\net9.0\BookConstructorApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.AssemblyInfoInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.AssemblyInfo.cs
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.csproj.CoreCompileInputs.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.sourcelink.json
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\refint\BookConstructorApp.dll
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.pdb
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\BookConstructorApp.genruntimeconfig.cache
+C:\Users\vaczl\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BookConstructorApp\obj\Debug\net9.0\ref\BookConstructorApp.dll

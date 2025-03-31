@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarDayChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c9c5a0797185a603c9084ac2d32641e6456917b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7532bd4ce004d80c4b8dceba2ab9d3ba543d3357")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarDayChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarDayChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
