@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentsmvc\\studentsmvc\\studentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentsmvc\\studentsmvc\\studentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentsmvc\\studentsmvc\\studentsmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentsmvc\\studentsmvc\\studentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\studentsmvc\\studentsmvc\\studentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27516624-265E-4751-9535-722AA8335E49}|StudentsMVC\\StudentsMVC.csproj|solutionrelative:studentsmvc\\views\\home\\instructors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Models\\Student.cs",
+              "RelativeToolTip": "StudentsMVC\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:37:00.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T20:29:23.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentsMVC\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:00:10.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentsMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentsMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T19:49:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instructors.cshtml",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeDocumentMoniker": "StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\StudentsMVC\\StudentsMVC\\StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "RelativeToolTip": "StudentsMVC\\Views\\Home\\Instructors.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T19:49:11.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
