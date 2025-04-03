@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\EFStudentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBECF34F-91DA-407B-A5D2-2C5BD773845C}|EFStudentApp.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\efstudentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBECF34F-91DA-407B-A5D2-2C5BD773845C}|EFStudentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBECF34F-91DA-407B-A5D2-2C5BD773845C}|EFStudentApp.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\efstudentapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBECF34F-91DA-407B-A5D2-2C5BD773845C}|EFStudentApp.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBECF34F-91DA-407B-A5D2-2C5BD773845C}|EFStudentApp.csproj|c:\\users\\vaczl\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\efstudentapp\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBECF34F-91DA-407B-A5D2-2C5BD773845C}|EFStudentApp.csproj|solutionrelative:studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\EFStudentApp\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentContext.cs",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\EFStudentApp\\StudentContext.cs",
+              "RelativeToolTip": "StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:45:33.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\EFStudentApp\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\EFStudentApp\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:33:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\EFStudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vaczl\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\EFStudentApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:30:29.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
