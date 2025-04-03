@@ -1,44 +1,42 @@
-# The Tech Academy Basic C-Sharp Projects
-This repository contains my projects and code samples from the **C# and .NET Framework - Part 1** course at The Tech Academy.
+# The Tech Academy Basic C# Projects
 
-This course introduces the core fundamentals of C# programming and the .NET Framework. Through a series of modules and hands-on exercises, I am learning how to create back-end functionality for software and web applications.
+This repository contains my work from the **C# and .NET Framework – Parts 1 & 2** courses at *The Tech Academy*. Through a combination of structured lessons and hands-on assignments, I learned the fundamentals of C# programming and backend development using .NET technologies.
 
-## Course Modules Covered
+## 📘 What I Learned
 
-1. **Basic Programming Terms**  
-   Definitions and understanding of key programming concepts in C#.
+Throughout the course, I gained both **theoretical knowledge** and **practical experience** in:
 
-2. **Object-Oriented Programming (OOP)**  
-   Introduction to OOP principles like classes, objects, inheritance, and encapsulation.
+- ✅ Core C# programming (syntax, data types, logic, loops, methods)
+- ✅ Object-Oriented Programming (classes, objects, inheritance, interfaces, polymorphism)
+- ✅ Exception handling, debugging, and code refactoring
+- ✅ Using arrays, lists, structs, enums, generics, and lambda expressions
+- ✅ Building interactive **console apps**
+- ✅ Understanding and applying **MVC architecture**
+- ✅ Developing **ASP.NET MVC web apps**
+- ✅ Connecting applications to databases via **Entity Framework**
+- ✅ Creating real-world projects such as:
+  - A **shipping quote console app**
+  - A **Blackjack game**
+  - A **car insurance web app** with quote calculation logic and admin panel
+  - A **Code-First Entity Framework app** for managing students
+  - A **personal portfolio website** using HTML, CSS, and JavaScript
 
-3. **Understanding How .NET Functions**  
-   Overview of the .NET Framework, the Common Language Infrastructure (CLI), and writing a basic C# program in Visual Studio.
+## 💻 Technologies Used
 
-4. **Writing More C# Programs**  
-   Hands-on practice writing simple programs and creating a welcome page using the .NET Framework.
+- C#, .NET Framework, ASP.NET MVC  
+- Entity Framework (Database First and Code First)  
+- Razor syntax  
+- SQL Server, LINQ  
+- Visual Studio, Git, GitHub  
+- HTML, CSS, JavaScript  
 
-5. **Data Types in C#**  
-   Introduction to C# data types and their usage.
+## 🧪 Projects in This Repository
 
-6. **Further Exploration of Data Types**  
-   Casting, assigning variables, and applying data types in real C# programs.
+This repository includes:
+- Assignments and exercises from each module  
+- Mini-projects built during the course  
+- Final assignments and challenges demonstrating application of full-stack .NET knowledge  
 
-7. **Performing Mathematical Operations in C#**  
-   Learning how to perform math using different data types and even strings.
+## 📂 Notes
 
-8. **Using Mathematical Operations in Programs**  
-   Applying math and comparison operators in code.
-
-9. **Using Boolean Logic in C#**  
-   Fundamentals of Boolean values and logic in programming.
-
-10. **Branching and Using Additional Operators**  
-   Using conditional logic and program flow control.
-
-11. **More on Branching**  
-   Creating branching structures using if/else and accepting user input; includes a console-based shipping quote application.
-
-12. **Loops and Strings**  
-   Writing and executing loops and manipulating strings in C#.
-
-
+All projects are organized by topic and are part of one local repository. A zipped folder with database `.mdf` and `.ldf` files is included where required.
